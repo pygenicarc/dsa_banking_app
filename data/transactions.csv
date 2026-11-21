@@ -1,0 +1,4 @@
+transaction_id,timestamp,account_number,tx_type,amount,balance_after,description
+TXN2026112109204013A2AA,2026-11-21 09:20:40,1002624485,DEPOSIT,2500.00,2500.00,Initial Account Opening Deposit
+TXN20261121092040C75D97,2026-11-21 09:20:40,1005125796,DEPOSIT,5000.00,5000.00,Initial Account Opening Deposit
+TXN2026112109280228A141,2026-11-21 09:28:02,1009001559,DEPOSIT,1000.00,1000.00,Initial Account Opening Deposit
